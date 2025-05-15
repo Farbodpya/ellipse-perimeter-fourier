@@ -16,4 +16,6 @@ This project provides a high-precision and efficient method for estimating the p
 
 ## How to Run
 ```bash
+git clone https://github.com/Farbodpya/ellipse-perimeter-fourier.git
+cd ellipse-perimeter-fourier
 python main.py
